@@ -5,7 +5,7 @@
 I researched and analyzed medical insurance costs data.
 
 # Data
-The data is under the name insurance.csv and contains the following variables:
+The data is under the name **insurance.csv** and contains the following variables:
 * age: age of primary beneficiary.
 * sex: insurance contractor gender, female, male.
 * bmi: Body mass index, providing an understanding of the body, weights that are relatively high or low relative to height, and objective index of body weight (kg / m ^ 2) using the ratio of height to weight, ideally 18.5 to 24.9.
