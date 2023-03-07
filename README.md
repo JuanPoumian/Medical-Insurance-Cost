@@ -15,13 +15,9 @@ The data is under the name **insurance.csv** and contains the following variable
 * charges: Individual medical costs billed by health insurance.
 
 # EDA
-I discovered:
-* The composition and distribution of the data.
-* The relationship between the variables "sex" and "smoker".
-* The relationship between the variables "bmi" and "charges".
+Here is a glimpse of the questions that I answered through my analysis:
+* What is the composition and distribution of the data?.
+* Is there a relationship between the variables "sex" and "smoker"?.
+* Is there a relationship between the variables "bmi" and "charges"?.
 
-Here are a few images from my analysis:
-
-![max_min_children](https://user-images.githubusercontent.com/114705723/223509051-146a5166-dd3f-4ecd-9c65-b03b65668a9f.png)
-
-
+The file 'insurance_medical_cost' contains the full insights that I have uncovered through my complete analysis.
