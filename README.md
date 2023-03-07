@@ -24,4 +24,4 @@ The file 'insurance_medical_cost' contains the full insights that I have uncover
 
 ## Resources Used
 **Python Version:** 3.9  
-**Packages:** pandas, numpy, matplotlib, seaborn, scipy.stats, csv.
+**Packages:** pandas, numpy, matplotlib, seaborn, scipy.stats adn csv.
