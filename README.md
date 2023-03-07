@@ -2,7 +2,7 @@
 
 ![HealthFitness](https://user-images.githubusercontent.com/114705723/222254587-7520f2cc-8af7-43fc-84a3-5fb91b92a27e.png)
 
-I researched and analyzed medical insurance costs data from 2015.
+I researched and analyzed medical insurance costs data from "2015".
 
 # Data
 The data is under the name **insurance.csv** and contains the following variables:
