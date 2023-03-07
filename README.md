@@ -14,7 +14,7 @@ The data is under the name **insurance.csv** and contains the following variable
 * region: the beneficiary's residential area in the US, northeast, southeast, southwest, northwest.
 * charges: Individual medical costs billed by health insurance.
 
-# EDA
+# Analysis
 Here is a glimpse of the questions that I answered through my analysis:
 * What is the composition and distribution of the data?.
 * Is there a relationship between the variables "sex" and "smoker"?.
