@@ -13,3 +13,22 @@ The data is under the name **insurance.csv** and contains the following variable
 * smoker: Smoking.
 * region: the beneficiary's residential area in the US, northeast, southeast, southwest, northwest.
 * charges: Individual medical costs billed by health insurance.
+
+# EDA
+I discovered:
+* The composition and distribution of the data.
+* The relationship between the variables "sex" and "smoker".
+* The relationship between the variables "bmi" and "charges".
+
+Here are a few images from my analysis:
+
+![males_females](https://user-images.githubusercontent.com/114705723/223508463-58f8eee5-1c07-4621-b7de-8ee599693a45.png)
+
+
+
+
+
+
+
+
+All of my findings from analyzing the dataset can be found in the file 'insurance_medical_cost'.
