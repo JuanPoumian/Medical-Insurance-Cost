@@ -21,3 +21,7 @@ Here is a glimpse of the questions that I answered through my analysis:
 * Is there a relationship between the variables "bmi" and "charges"?.
 
 The file 'insurance_medical_cost' contains the full insights that I have uncovered through my complete analysis.
+
+## Resources Used
+**Python Version:** 3.9  
+**Packages:** pandas, numpy, matplotlib, seaborn, scipy.stats, csv.
